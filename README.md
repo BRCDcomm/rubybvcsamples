@@ -13,4 +13,4 @@ Sample applications demonstrating use of [rubybvc](https://github.com/BRCDcomm/r
 ## Sample Apps
 
 * 1.3.0/sample_openflow/demos/demo_1.rb
-** Get list of OpenFlow nodes and provide generic info for each.
+    * Get list of OpenFlow nodes and provide generic info for each.
