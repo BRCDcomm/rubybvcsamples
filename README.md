@@ -4,7 +4,12 @@ Sample applications demonstrating use of [rubybvc](https://github.com/BRCDcomm/r
 ## Documentation:
 
 ## Pre-requisites:
-* Install [rubybvc](https://github.com/BRCDcomm/rubybvc)
+* [rubybvc](https://github.com/BRCDcomm/rubybvc)
+
+## Installation
+'''bash
+   git clone https://github.com/BRCDcomm/rubybvcsamples.git
+'''
 
 ## BVC Version Support:
 * 1.3.0 folder has been tested with BVC 1.3.0
