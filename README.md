@@ -2,6 +2,7 @@
 Sample applications demonstrating use of [rubybvc](https://github.com/BRCDcomm/rubybvc) to monitor/configure network via Brocade Vyatta Controller (BVC).
 
 ## Documentation:
+* [Video introduction](https://www.youtube.com/watch?v=dZxZAtg3R0A)
 
 ## Pre-requisites:
 * [rubybvc](https://github.com/BRCDcomm/rubybvc)
